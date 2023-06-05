@@ -1,7 +1,8 @@
 # keyword-trend-extract
 
-data souce from https://www.aminer.org/citation
+Citation Data souce 
+from https://www.aminer.org/citation
 
-preprocessing & extract top - k freq keyword extraction 
+Description: Preprocessing & extract top - k freq keyword extraction 
 
-to search and undestand the trend of fos
+Motivation: Too search and undestand the trend of fos
